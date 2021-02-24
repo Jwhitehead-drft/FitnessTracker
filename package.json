@@ -1,5 +1,5 @@
 {
-  "name": "mongoose_skeleton",
+  "name": "FitnessTracker",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -15,5 +15,15 @@
     "express": "^4.16.3",
     "mongoose": "^5.3.16",
     "morgan": "^1.9.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jwhitehead-drft/FitnessTracker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Jwhitehead-drft/FitnessTracker/issues"
+  },
+  "homepage": "https://github.com/Jwhitehead-drft/FitnessTracker#readme"
 }
